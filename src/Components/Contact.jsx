@@ -36,8 +36,8 @@ const Contact = () => {
             Creativity Meets Innovation
           </p>
           <AnimatedTitle
-            title="Inspired by <br /> Cyberpunk Edgerunners <br /> Designed Like Zentry"
-            className="--font-family-zentry !md:text-[6.2rem] w-full  text-5xl leading-[0.9] md:text-[6rem] bento-title special-font"
+            title="I<b>n</b>spired by <br /> Cyberpunk Edgerunners <br /> Designed Like Zentry"
+            containerClass="--font-family-zentry !md:text-[6.2rem] w-full  text-5xl leading-[0.9] md:text-[6rem] special-font"
           />
           <Button 
             title='Made with Love for Lucy' 

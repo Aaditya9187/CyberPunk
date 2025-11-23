@@ -51,8 +51,8 @@ const Story = () => {
         </p>
 				<div className="relative size-full">
           <AnimatedTitle
-            title="There are no <br /> happy endings <br /> in Night City"
-            containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10"
+            title="T<b>h</b>ere are <b>n</b>o <br /> happy e<b>n</b>dings <br /> in <b>n</b>ight City"
+            containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10 special-font"
           />
 					<div className="story-img-container ">
 						<div className="story-img-mask">
