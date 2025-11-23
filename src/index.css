@@ -215,7 +215,7 @@
     font-size: 4.5rem;
     line-height: 0.8;
     text-transform: uppercase;
-    color: white;
+    color: inherit;
   }
 
   @media (min-width: 640px) {
