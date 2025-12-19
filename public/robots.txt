@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: ttps://lucycyberpunk.vercel.app/sitemap.xml
