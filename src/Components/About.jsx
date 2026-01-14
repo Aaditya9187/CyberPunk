@@ -59,7 +59,7 @@ const About = () => {
         </h2>
         
         <AnimatedTitle
-          title="<b>w</b>elco<b>m</b>e t<b>o</b> the <b>n</b>e<b>o</b>n b<b>a</b>ttlegroun<b>d</b> <br /> w<b>h</b>ere e<b>v</b>ery <b>u</b>pgra<b>d</b>e c<b>u</b>ts a little <b>d</b>eeper"
+          title="<b>w</b>elco<b>m</b>e to the ne<b>o</b>n b<b>a</b>ttlegroun<b>d</b> <br /> where e<b>v</b>ery upgrade c<b>u</b>ts a little <b>d</b>eeper"
           containerClass="mt-5 !text-black text-center special-font"
         />
 
