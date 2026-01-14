@@ -268,6 +268,31 @@ const Hero = () => {
       </div>
 
       {/* Heading Outside Frame */}
+      <div className="absolute left-0 top-0 z-0 size-full">
+          <div className="mt-24 px-5 sm:px-10">
+            <h1 className="special-font hero-heading text-black">
+              c<b>y</b>berp<b>u</b>nk
+            </h1>
+
+            <p className="mb-5 max-w-64 font-robert-regular text-black">
+              Live loud. <br /> Die legendary.
+            </p>
+
+            <a
+              href="https://www.youtube.com/watch?v=JtqIas3bYhg&t=28s"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block"
+            >
+              <Button
+                id="watch-trailer"
+                title="Watch trailer"
+                leftIcon={<TiLocationArrow />}
+                containerClass="bg-black flex-center gap-1"
+              />
+            </a>
+          </div>
+        </div>
       <h1 className="special-font hero-heading absolute bottom-5 right-5 text-black">
         e<b>d</b>ger<b>un</b>ners
       </h1>
