@@ -2,9 +2,9 @@ import React from 'react'
 import { FaGithub, FaLinkedinIn, FaYoutube } from 'react-icons/fa'
 
 const links = [
-  {href: 'https://github.com/SwastikSharma15', icon: <FaGithub />},
-  {href: 'https://www.linkedin.com/in/swastik15sharma', icon: <FaLinkedinIn />},
-  {href: 'https://www.youtube.com/@SpeedX_', icon: <FaYoutube />},
+  {href: 'https://github.com/Aaditya9187', icon: <FaGithub />},
+  {href: 'https://www.linkedin.com/in/Aaditya-Chhatraliya', icon: <FaLinkedinIn />},
+  {href: 'https://www.youtube.com', icon: <FaYoutube />},
 ]
 
 const Footer = () => {
